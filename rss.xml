@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Slab Concrete Homewares and Furniture]]></title>
         <description><![CDATA[Slab Concrete Homewares and Furniture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/slab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 01:01:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 01:02:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/700e58aa-f4df-4ab8-a479-536ce901479b.png">]]></description>
-            <link>undefined47d30f21-dd1f-40c1-ac07-d3184d3aa156/index.html</link>
+            <link>https://thegrid.ai/slab/47d30f21-dd1f-40c1-ac07-d3184d3aa156/index.html</link>
             <guid isPermaLink="false">47d30f21-dd1f-40c1-ac07-d3184d3aa156</guid>
-            <pubDate>Wed, 23 Mar 2016 01:01:50 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 01:02:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
