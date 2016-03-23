@@ -1,7 +1,7 @@
 name: Slab
 favicon: null
-layout_spectrum: 0.2194613649044186
-typography_spectrum: 0.8213550210930407
+layout_spectrum: 0.24871
+typography_spectrum: 0.74957
 title: Slab Concrete Homewares and Furniture
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.002637547207996249
-  lightness: 0.5459223992656916
-  saturation: 0.8246621249709278
-  rhythmicContrast: 0.7926082087215036
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
